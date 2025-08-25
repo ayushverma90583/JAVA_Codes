@@ -53,7 +53,7 @@ class d extends c
 {
 
 }
-class Inheritance2
+class MultilevelInheritance2
 {
 	public static void main(String[] args)
 	{
@@ -61,4 +61,5 @@ class Inheritance2
 		d1.prime();
 		d1.perfect();
 	}
+
 }
