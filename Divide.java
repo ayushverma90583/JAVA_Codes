@@ -14,10 +14,11 @@ class Function
 		System.out.println("Answer after Dividing :- "+quotient);
 	}
 }
-class Constructor2
+class Divide
 {
 	public static void main(String[] args)
 	{
 		Function f=new Function();
 	}
+
 }
