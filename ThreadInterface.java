@@ -12,7 +12,7 @@ class Test implements Runnable
 			}
 			catch(Exception ex)
 			{
-				
+				System.out.println(ex);
 			}
 		}
 	}
@@ -28,4 +28,5 @@ class ThreadInterface
 		th1.start();
 		th2.start();
 	}
+
 }
