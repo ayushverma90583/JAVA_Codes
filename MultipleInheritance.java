@@ -30,7 +30,7 @@ class shape3 extends shape
 		System.out.println("Area of Square :- "+area);
 	}
 }
-class Inheritance3
+class MultipleInheritance
 {
 	public static void main(String[] args)
 	{
@@ -41,4 +41,5 @@ class Inheritance3
 		s3.circle();
 		s3.square();
 	}
+
 }
