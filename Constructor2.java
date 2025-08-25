@@ -14,10 +14,11 @@ class Months
 		}
 	}
 }
-class constructor3
+class Constructor2
 {
 	public static void main(String[] args)
 	{
 		Months m = new Months();
 	}
+
 }
