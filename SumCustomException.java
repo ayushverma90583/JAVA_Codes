@@ -20,7 +20,7 @@ class Sum
 		System.out.println("Sum :- "+sum);
 	}
 }
-class CustomException3
+class SumCustomException
 {
 	public static void main(String[] args)
 	{
@@ -35,3 +35,4 @@ class CustomException3
 		}
 	}
 }
+
