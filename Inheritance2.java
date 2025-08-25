@@ -27,7 +27,7 @@ class Child extends Parents
 		System.out.println("Name of the Child :-"+name);
 	}
 }
-class Inheritance6
+class Inheritance2
 {
 	public static void main(String[] args)
 	{
@@ -35,4 +35,5 @@ class Inheritance6
 		c.parentage();
 		c.childageandname();
 	}
+
 }
