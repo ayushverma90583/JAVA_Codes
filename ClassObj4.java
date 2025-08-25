@@ -10,7 +10,7 @@ class Animal
 		System.out.println("I am  goat, I am having "+legs+" legs");
 	}
 }
-class ClassObjectRevision
+class ClassObj4
 {	
 	public static void main(String[] args)
 	{
@@ -18,4 +18,5 @@ class ClassObjectRevision
 		goat.setlegs();
 		goat.display();
 	}
+
 }
