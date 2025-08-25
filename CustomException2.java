@@ -28,7 +28,7 @@ class Library
 		}
 	}	
 }
-class CustomException5
+class CustomException2
 {
 	public static void main(String[] args)
 	{
@@ -42,4 +42,5 @@ class CustomException5
 				System.out.println(x);
 		}
 	}
+
 }
