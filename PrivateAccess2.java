@@ -29,11 +29,12 @@ class Function2 extends Function
 		return (float)0;
 	}
 }
-class Inheritance5
+class PrivateAccess2
 {
 	public static void main(String[] args)
 	{
 		Function2 f = new Function2();
 		f.perc();
 	}
+
 }
