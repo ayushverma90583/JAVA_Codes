@@ -19,5 +19,5 @@ class Constructor
 	{
 		Function f = new Function();
 	}
-
 }
+
