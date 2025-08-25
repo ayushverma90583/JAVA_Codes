@@ -27,7 +27,7 @@ class Table
         }
     }
 }
-class CustomException4
+class TableCustomException
 {
     public static void main(String[] args)
     {
@@ -41,4 +41,5 @@ class CustomException4
             System.out.println(x);
         }
     }
+
 }
