@@ -53,7 +53,7 @@ class d extends c
 {
 
 }
-class MultilevelInheritance2
+class MultilevelInheritance
 {
 	public static void main(String[] args)
 	{
@@ -63,3 +63,4 @@ class MultilevelInheritance2
 	}
 
 }
+
