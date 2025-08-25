@@ -9,14 +9,11 @@ class Math
 		s=a+b;
 		return s;
 	}
-	
 	public int setsum()
 	{
 		return getsum();
 	}
-	
 }
-
 class Maths extends Math
 {
 	public int show()
@@ -25,9 +22,8 @@ class Maths extends Math
 		System.out.println("res: "+res);
 		return 0;
 	}
-	
 }
-class Inheritance4
+class PrivateAccess
 {
 	public static void main(String[] args)
 	{
