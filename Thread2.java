@@ -17,7 +17,7 @@ class Function extends Thread
 		}
 	}
 }
-class TestThread2
+class Thread2
 {
 	public static void main(String[] args)
 	{
@@ -26,4 +26,5 @@ class TestThread2
 		f.start();
 		f1.start();
 	}
+
 }
