@@ -35,7 +35,7 @@ class area
 		}
 	}
 }
-class CustomException2
+class areafoftraingleCustomException
 {
 	public static void main(String[] args)
 	{
@@ -49,4 +49,5 @@ class CustomException2
 			System.out.println(x);
 		}
 	}
+
 }
