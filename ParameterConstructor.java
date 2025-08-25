@@ -19,11 +19,12 @@ class Function
 		System.out.println("Substract :- "+s);
 	}
 }
-class parameterConstructor
+class ParameterConstructor
 {
 	public static void main(String[] args)
 	{
 		Function f = new Function(10);
 		f.Substract();
 	}
+
 }
