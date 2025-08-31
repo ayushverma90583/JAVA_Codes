@@ -3,7 +3,7 @@ class Calc
 {
 	int sum,sub,mul,div,option,f,s;
 	Scanner scan = new Scanner(System.in);
-	public void Ope()
+	public void calc()
 	{
 		do
 		{
@@ -57,6 +57,6 @@ class Calculator
 	public static void main(String[] args)
 	{
 		Calc c = new Calc();
-		c.Ope();
+		c.Calc();
 	}
 }
