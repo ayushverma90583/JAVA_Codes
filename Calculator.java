@@ -57,6 +57,7 @@ class Calculator
 	public static void main(String[] args)
 	{
 		Calc c = new Calc();
-		c.Calc();
+		c.calc();
 	}
 }
+
