@@ -10,7 +10,7 @@ class Function
 		age = a;
 	}
 }
-class GetterSetter
+class GetterSetter1
 {
 	public static void main(String[] args)
 	{
@@ -18,4 +18,5 @@ class GetterSetter
 		f.setage(3);
 		System.out.println(f.getage());
 	}
+
 }
