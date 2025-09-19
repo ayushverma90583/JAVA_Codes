@@ -46,7 +46,7 @@ class Function
 		}
 	}
 }
-class ClassObj3
+class Class_Object
 {
 	public static void main(String[] args)
 	{
@@ -54,4 +54,5 @@ class ClassObj3
 		f.percentage();
 		f.result();
 	}
+
 }
