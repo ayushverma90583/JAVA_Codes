@@ -20,11 +20,12 @@ class Function2 extends Function
 		System.out.print("After Withdrawing The Amount :- "+balance+" Rs Balance...");
 	}
 }
-class Abstraction2
+class Abstract_1
 {
 	public static void main(String[] args)
 	{
 		Function2 f = new Function2();
 		f.Account();
 	}
+
 }
