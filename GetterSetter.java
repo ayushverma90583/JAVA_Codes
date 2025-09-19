@@ -31,7 +31,7 @@ class Cylinder
         System.out.println("Surface Area of the Cyclinder :- "+(2*pi*radius*height+2*pi*radius*radius));
     }
 }
-class Gettersetter
+class GetterSetter
 {
     public static void main(String[] args)
     {
@@ -43,4 +43,5 @@ class Gettersetter
         c.Volume();
         c.Surfacearea();
     }
+
 }
